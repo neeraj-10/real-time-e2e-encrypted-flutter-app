@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15102365918",
+    "project_id": "textup-96598",
+    "storage_bucket": "textup-96598.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15102365918:android:dac3cf938bff28814b324f",
+        "android_client_info": {
+          "package_name": "com.example.text_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15102365918-f3tk179juovmprrlbjkmqjvavl6a2e06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgXsKG-23GK_fS5lDQ-9Zo4qai0tjgiDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15102365918-f3tk179juovmprrlbjkmqjvavl6a2e06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
