@@ -1,4 +1,4 @@
-# text_up
+# TextUp
 
 A new Flutter project.
 
